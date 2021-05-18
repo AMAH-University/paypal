@@ -1,3 +1,5 @@
+posgresql
+DynamoDB
 MariaDB
 MySQL
 Mongodb
